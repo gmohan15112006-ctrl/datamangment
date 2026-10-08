@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Patient Data",
+  "description": "Hospital Patient Data Management System with emergency patient records entry, doctor review, role security, audit logging, and Excel export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
